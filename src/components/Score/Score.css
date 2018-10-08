@@ -1,6 +1,6 @@
 .gameScore {
   text-align: center;
-  height: 70px;
+  height: 50px;
   position: relative;
   line-height: 1em;
   padding: 0;
@@ -18,5 +18,5 @@ h3.score {
 h3.status{
   margin: 0;
   padding: 0;
-  color: red;
+  color: rgb(119, 0, 255);
 }
